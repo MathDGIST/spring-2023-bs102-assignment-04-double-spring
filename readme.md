@@ -33,6 +33,7 @@ This functions finds the exact solutions of
 the double spring motion based on the inputs.
 Fill in the correct code,
 and you will the following output as a result.
+
 ![](./double.gif)
 
 The file `./test.sh` is provided to compare the results of your output.
